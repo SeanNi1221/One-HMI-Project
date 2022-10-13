@@ -1,0 +1,3 @@
+[submodule "Packages/com.sean21.one-hmi"]
+	path = Packages/com.sean21.one-hmi
+	url = https://github.com/SeanNi1221/One-HMI-Package.git

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48133d009e92c464d9365d96846def97, type: 3}
+  m_Name: MySQL Connector
+  m_EditorClassIdentifier: 
+  editorUri: http://172.20.18.11:8099
+  buildUri: 127.0.0.1:8099
+  userName: root
+  password: sec123456
+  timeout: 15
+  enableTimer: 0
+  responseTime: 0
+  messageOut: 
+  onSendFinished:
+    m_PersistentCalls:
+      m_Calls: []
+  messageIn: 1
+  serverName: localhost
+  backendLocation: /UnityMySQLBackend_PHP/

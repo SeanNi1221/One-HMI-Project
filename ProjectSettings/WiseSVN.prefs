@@ -1,0 +1,17 @@
+{
+    "DownloadRepositoryChanges": true,
+    "SvnCLIPath": "",
+    "SvnCLIPathMacOS": "",
+    "MoveBehaviour": 0,
+    "EnableLockPrompt": false,
+    "LockPromptMessage": "Auto-locked.",
+    "AutoUnlockIfUnmodified": false,
+    "LockPromptParameters": [],
+    "EnableBranchesDatabase": false,
+    "BranchesDatabaseScanParameters": [],
+    "PinnedBranches": [],
+    "Exclude": [
+        "UserSettings",
+        "Assets/TextMesh Pro"
+    ]
+}
